@@ -1,0 +1,13 @@
+Document for test task
+
+1.frontend
+This is the email login/sign up module and include the using the mail box when forget password.
+Users can login by using their email address.
+When forget the password, they can login by email and reset the password.
+The test task displays "email" messages on screen because it can't send real emails, so after registration a "verification email" is displayed with a link to verify the account just registered, click the link to verify the account and login to the app.
+Users view and update their profile after login the page.
+
+2.backend
+Managemen the users and roles.
+There are two group user and admin in here.
+admin user can manage all users.
